@@ -1,12 +1,10 @@
 ---
-title: "Multidomain active defense: Detecting multidomain backdoor poisoned samples via ALL-to-ALL decoupling training without clean datasets"
+title: "DIHBA: Dynamic, invisible and high attack success rate boundary backdoor attack with low poison ratio"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-date: 2022-09-23
+date: 2023-03-30
 venue: 'Computers & Security'
-paperurl: 'https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0274748'
+paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0167404823001220'
 ---
 
-[Download paper here](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0274748)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: *Ma B*, Zhao C, Wang D, et al. DIHBA: Dynamic, invisible and high attack success rate boundary backdoor attack with low poison ratio[J]. <i>Computers & Security<i>, 2023, 129: 103212.
