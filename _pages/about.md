@@ -12,7 +12,7 @@ Welcome, my name is Ma Binhao. I am set to graduate in June 2024 with a Master's
 
 If you are interested in me, you can find my CV here:[Binhao Ma's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](https://mailto:binhaoma98@gmail.com)/[Github](https://github.com/Magic-Ma-tech)
+[Email](mailto:binhaoma98@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)/[Github](https://github.com/Magic-Ma-tech)
 
 
 
