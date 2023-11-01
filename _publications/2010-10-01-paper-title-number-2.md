@@ -7,4 +7,4 @@ venue: 'Computers & Security'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0167404823001220'
 ---
 
-Recommended citation: *Ma B*, Zhao C, Wang D, et al. DIHBA: Dynamic, invisible and high attack success rate boundary backdoor attack with low poison ratio[J]. <i>Computers & Security<i>, 2023, 129: 103212.
+Recommended citation: **Ma B**, Zhao C, Wang D, et al. DIHBA: Dynamic, invisible and high attack success rate boundary backdoor attack with low poison ratio[J]. <i>Computers & Security<i>, 2023, 129: 103212.
