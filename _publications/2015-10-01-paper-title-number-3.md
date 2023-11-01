@@ -1,15 +1,10 @@
 ---
-title: "Paper Title Number 3"
+title: "Multidomain active defense: Detecting multidomain backdoor poisoned samples via ALL-to-ALL decoupling training without clean datasets"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+date: 2023-09-25
+venue: 'Neural Networks'
+paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0893608023005324'
 ---
-This paper is about the number 3. The number 4 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: **Ma B**, Wang J, Wang D, et al. Multidomain active defense: Detecting multidomain backdoor poisoned samples via ALL-to-ALL decoupling training without clean datasets[J]. *Neural Networks*, 2023, 168: 350-362.
