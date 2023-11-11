@@ -18,7 +18,5 @@ Download [here](https://arxiv.org/pdf/2308.09487.pdf)
 
 {% include base_path %}
 
-{% for post in site.manuscripts reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+
 
