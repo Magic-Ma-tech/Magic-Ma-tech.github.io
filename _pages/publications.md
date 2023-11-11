@@ -40,7 +40,7 @@ Download [here](https://www.airitilibrary.com/Article/Detail/18163548-N202306300
 
 ## 5 Survey on cross-chain protocols of blockchain
 
-Published in *International Journal of Network Security*, 2023
+Published in *International Journal of Network Security*, 2022
 
 Recommended citation: Bo, M. E. N. G., Yibing, W. A. N. G., Can, Z. H. A. O., Dejun, W. A. N. G., & **Binhao, M. A**. (2022). Survey on cross-chain protocols of blockchain. *Journal of Frontiers of Computer Science & Technology*, 16(10), 2177.
 
