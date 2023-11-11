@@ -1,6 +1,6 @@
 ---
 title: "Poison Dart Frog: A Clean-Label Attack with Low Poisoning Rate and High Attack Success Rate in the Absence of Training Data"
-permalink: /publication/post-draft
+permalink: /drafts/post-draft
 date: 2023-10-14
 paperurl: 'https://arxiv.org/pdf/2308.09487.pdf'
 ---
