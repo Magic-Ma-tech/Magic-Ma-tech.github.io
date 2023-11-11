@@ -1,5 +1,6 @@
 ---
 title:Poison Dart Frog: A Clean-Label Attack with Low Poisoning Rate and High Attack Success Rate in the Absence of Training Data  
+layout: default
 ---
 *Archiv* 2023
 
