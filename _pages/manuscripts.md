@@ -5,7 +5,7 @@ permalink: /manuscripts/
 author_profile: true
 ---
 
-## [Poison Dart Frog: A Clean-Label Attack with Low Poisoning Rate and High Attack Success Rate in the Absence of Training Data](manuscript-1.md#unique-anchor)
+## [Poison Dart Frog: A Clean-Label Attack with Low Poisoning Rate and High Attack Success Rate in the Absence of Training Data](2023-1.md)
 
 *Archiv*, 2023
 
