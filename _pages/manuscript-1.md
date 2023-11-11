@@ -1,5 +1,3 @@
-# Poison Dart Frog: A Clean-Label Attack with Low Poisoning Rate and High Attack Success Rate in the Absence of Training Data
-
 *Archiv* 2023
 
 Recommended citation: **Ma B**, Wang J, Wang D, et al. Poison Dart Frog: A Clean-Label Attack with Low Poisoning Rate and High Attack Success Rate in the Absence of Training Data[J]. *arXiv preprint* arXiv:2308.09487, 2023.
