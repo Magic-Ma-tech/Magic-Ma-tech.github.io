@@ -1,9 +1,14 @@
-# Understanding Quantum Entanglement in Superposition States
+---
+title: "Poison Dart Frog: A Clean-Label Attack with Low Poisoning Rate and High Attack Success Rate in the Absence of Training Data"
+collection: publications
+permalink: /teaching/2009-10-01-paper-title-number-1
+date: 2023-10-13
+venue: 'Archiv'
+paperurl: 'https://arxiv.org/pdf/2308.09487.pdf'
+---
 
-**Author:** Dr. Emily A. Johnson
+Recommended citation: **Ma B**, Wang J, Wang D, et al. Poison Dart Frog: A Clean-Label Attack with Low Poisoning Rate and High Attack Success Rate in the Absence of Training Data[J]. *arXiv preprint* arXiv:2308.09487, 2023.
 
-**Abstract:**
-Quantum entanglement is a fundamental phenomenon in quantum mechanics. In this paper, we explore the intricate nature of entanglement, especially in superposition states. Our findings shed light on the underlying principles governing entanglement, providing new insights into the potential applications in quantum computing and communication.
 
-**Suggested Citation:**
-Johnson, E. A. (2023). *Understanding Quantum Entanglement in Superposition States*. Journal of Quantum Physics, 45(2), 201-215. DOI: [https://doi.org/xxxxxxx](https://doi.org/xxxxxxx)
+
+
